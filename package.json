@@ -1,0 +1,24 @@
+{
+  "name": "unconventional_calculator",
+  "version": "1.0.0",
+  "description": "academind lessons for basic javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/unconventional_calculator"
+  },
+  "keywords": [
+    "javascript",
+    "lesson",
+    "learning",
+    "tutorial"
+  ],
+  "author": "James Pasteur",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}

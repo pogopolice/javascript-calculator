@@ -1,0 +1,13 @@
+version: '3.3'
+
+services:
+  app:
+    image: calc:1.0
+    stdin_open: true
+    tty: true
+    build:
+      context: .
+    volumes:
+      - .:/app
+    ports:
+      - 80:80
